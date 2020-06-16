@@ -1,2 +1,2 @@
 # Progettazione-Elettronica-Digitale
-Progetto di un sensore di rilevàmento fugà di gàs nàturàle, temperàturà ed umidità bàsàto su STM32F4
+Progetto di un sensore di rilevamento fuga di gas naturale, temperatura ed umidità basato su STM32F4
